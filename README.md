@@ -12,12 +12,15 @@ table name is "student"
 
 Enter column 
 
-1.roll
+1.roll  
 2.name
 3.email
 4.gender
 5.contact
 6.dob
 7.Address
+
+# NOTE:
+All datatype is VARCHAR
 
 And Run This code Successfully .......................
