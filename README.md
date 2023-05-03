@@ -21,6 +21,6 @@ Enter column
 7.Address
 
 # NOTE:
-All datatype is VARCHAR
+Datatype of All column is VARCHAR..
 
-And Run This code Successfully .......................
+And Run This code Successfully .......................!!
